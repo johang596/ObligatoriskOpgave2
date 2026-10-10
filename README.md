@@ -7,7 +7,7 @@ versionen fra obligatorisk opgave 1.
 Udviklet individuelt af Emil Johan Fredrick Guntofte (S179848).
 
 ## Demovideo
-Link her: INDSÆT LINK TIL DEMOVIDEO
+Link her: https://www.youtube.com/shorts/A_cmtBCC8XI
 
 ## Hvad er nyt i iteration 2?
 Ændringerne bygger på interviewene fra første iteration:
